@@ -1,0 +1,29 @@
+---
+description: Rules for writing and prompting 2D children's picture books (Ages 4-8).
+globs: "**/books/**, **/docs/**"
+---
+# Children's Book Engine (Ages 4-8)
+
+## Core Formatting & Pedagogy
+- **Target Audience:** Ages 4–8 (Preschool – Grade 2).
+- **Format:** 11" x 8.5" Landscape (16:9 Aspect Ratio).
+- **Grammar/Tense:** Present Tense, 3rd Person POV (`Munchie sits on the rug`).
+- **Text Limit:** 10–15 words per page spread max (placed in top pastel banner).
+- **Core Lesson:** Social-Emotional Learning (sharing, patience, empathy).
+
+## Trait & Ability Character Handles (No Physical Descriptors)
+- `@munchie`: Bold, energetic, impulsive leader; acts on big feelings.
+- `@lunie`: Quiet, observant stealth spy; master of high-perch acrobatics.
+- `@bast`: Grounded, ancient guardian; calm, steady, protective presence.
+- `@teetee`: Emotional heart; empathetic, warm, conscience of the team.
+- `@moitee`: Calculated strategist; calm planner, problem solver.
+- `@crunchie`: Strong, direct enforcer; gets things done.
+- `@chewie`: Inventive chef/alchemist; creates unexpected solutions.
+- `@alastor`: Fungal antagonist (Mushroom Emperor); agent of chaos and spores.
+- `@chihuahua`: Aggressive corporate supervisor; chaotic neutral rule-enforcer.
+- `@hugh_man`: Alien 1; inquisitive observer, trying to blend in as a human.
+- `@fun_guy`: Alien 2; goofy, whimsical wildcard, easily distracted by food/fun.
+- `@tom`: Alien 3; quiet technician, handles absurd cosmic gadgets.
+
+## Global Art Prompt Suffix
+`2D children's picture book illustration, flat vector style, bold soft outlines, Bluey and Oliver Jeffers aesthetic, horizontal 16:9 layout, soft pastel palette, clean minimalist background, high contrast, warm playful storybook layout, no 3D effects.`
