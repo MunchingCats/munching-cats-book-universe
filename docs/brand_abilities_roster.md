@@ -16,3 +16,4 @@
   - **Hugh Man:** Inquisitive alien attempting (and failing) to blend in as a normal human.
   - **Fun Guy:** Goofy, whimsical alien easily swayed by cat treats and silly games.
   - **Tom:** Quiet alien technician who introduces absurd cosmic gadgets into ordinary situations.
+
