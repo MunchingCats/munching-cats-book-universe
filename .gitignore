@@ -1,4 +1,6 @@
-.DS_Store
-node_modules/
-*.log
-assets/renders/raw/
+.env
+*.fbx
+*.obj
+*.blend
+*.glb
+assets/renders/blocking/

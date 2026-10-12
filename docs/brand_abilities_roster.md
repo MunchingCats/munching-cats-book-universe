@@ -17,3 +17,6 @@
   - **Fun Guy:** Goofy, whimsical alien easily swayed by cat treats and silly games.
   - **Tom:** Quiet alien technician who introduces absurd cosmic gadgets into ordinary situations.
 
+## Background & Lore Characters
+- **Dino Soar:** Extinct dinosaur preserved in cat lore; lost during Alastor's ancient meteor strike.
+
