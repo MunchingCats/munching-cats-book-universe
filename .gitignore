@@ -4,3 +4,4 @@
 *.blend
 *.glb
 assets/renders/blocking/
+.cursor/mcp.json
